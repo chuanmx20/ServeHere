@@ -15,7 +15,7 @@ If you have already installed [nodejs](nodejs.org), it will install [directory-s
 4. Drag the application you exported into toolbar pressing opt + cmd
 
 **Install release**
-1. Download the release application
+1. Download the [release](https://github.com/chuanmx20/ServeHere/releases/tag/0.0.1) application
 2. Move it to ~/Applications (optional)
 3. Drag it to toolbar pressing opt + cmd
 
